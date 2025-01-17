@@ -1,8 +1,7 @@
-# Asra Furniture Website
+# Asra Furniture's Website
 
 Welcome to the *Asra Furniture* repository! This project is designed to showcase a beautiful collection of furniture for e-commerce, providing a smooth shopping experience for customers to browse, purchase, and manage their furniture items. It also includes features for blog content related to interior design, furniture care, and trends.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ Welcome to the *Asra Furniture* repository! This project is designed to showcase
 - **Blog**: Explore articles on furniture care, home decor tips, and more.
 - **Responsive Design**: Seamless experience on desktops, tablets, and mobile devices.
 
----
 
 ## Installation
 
@@ -22,4 +20,4 @@ Follow these steps to get started with the *Asra Furniture* project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/asra-furniture.git
+   git clone https://github.com/NarmeenAsghar/Asra-Furnitures-Website.git
